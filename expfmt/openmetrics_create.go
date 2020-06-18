@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/beckjim/common/model"
 	"github.com/golang/protobuf/ptypes"
-	"github.com/prometheus/common/model"
 
 	dto "github.com/prometheus/client_model/go"
 )
